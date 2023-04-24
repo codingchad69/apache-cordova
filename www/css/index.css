@@ -1,0 +1,10 @@
+img {
+    width: 50%;
+    margin: 8px;
+}
+
+section {
+    display:flex;
+    flex-wrap:wrap;
+
+}
